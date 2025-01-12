@@ -20,8 +20,8 @@ The dataset used in this project is the **Superstore Sales Dataset**, which cont
 4. **Seasonal Patterns**: A seasonal analysis was conducted to understand how sales fluctuate across different months.
 
 ## Key Insights
-- The top-performing products showed a significant increase in sales during the holiday season.
-- Monthly sales trends indicated higher sales during the second half of the year, suggesting potential opportunities for targeted marketing campaigns.
+- The top-performing products showed a significant increase in sales during the holiday season:- By identifying the top-selling products, especially during key sales periods, this insight helps inform inventory decisions. Ensuring stock levels are adjusted ahead of peak seasons can prevent stockouts and overstock situations.
+- Monthly sales trends indicated higher sales during the second half of the year, suggesting potential opportunities for targeted marketing campaigns:- By understanding seasonal sales patterns, marketing teams can plan targeted campaigns, promotions, or discounts during peak months to maximize sales and customer engagement.
   
 ## How to Run
 1. Clone this repository.
