@@ -25,7 +25,7 @@ The dataset used in this project is the **Superstore Sales Dataset**, which cont
   
 ## How to Run
 1. Clone this repository.
-2. Open the `Sales_Data_Analysis.ipynb` file in Jupyter Notebook or Google Colab.
+2. Open the `[Sales_Data_Analysis.ipynb](https://github.com/MsonMaire/Sales-Data-Analysis/blob/main/Sales_Data_Analysis.ipynb)` file in Jupyter Notebook or Google Colab.
 3. Run the notebook to see the analysis and visualizations.
 
 ## License
